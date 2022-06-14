@@ -1,7 +1,7 @@
 # Promethee II Algorithm - Python
 Final project for Programming Languages (Academic subject)
 
-#POLISH VERSION\n
+#POLISH VERSION__
 Przed uruchomieniem programu upewnij się, że pobrałeś wersję odpowiednią dla twojego język.
 Plik wykorzystywany do programu powinien być wykonany według poniższego szablonu:
 
