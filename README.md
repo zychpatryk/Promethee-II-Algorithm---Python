@@ -11,12 +11,12 @@ wartosc_pierwszego_atrubutu; wartość_drugiego atrybutu; ...; wartosc_n-tego_at
 #END<br/>
 
 OZNACZENIA:<br/>
-nr_atrybutu - wartości całkowite od 1 do n gdzie n jest liczbą atrybutów<br/>
-nazwa - nazwa atrybutu - łańcuch znaków<br/>
-waga - liczba rzeczywista, wartość atrybutu określa jego ważność, przedział (0, 1><br/>
-typ - znak K lub Z, gdzie K - charakter kosztowy to znaczy im większa wartość atrybutu tym gorzej, Z - charakter korzyści czyli im większa wartość tym lepiej<br/>
-typ_funkcji_preferencji - liczba całkowita ze zbioru {1, 2, 3, 4, 5} oznaczająca formę funkcji preferencji (zdjęcia poniżej)<br/>
-parametry_funkcji - dwie liczby rzeczywiste oddzielone spacją określające wartości parametrów q i p (odpowiednio próg równoważności i silnej preferencji - zdjęcia poniżej). Jeżeli dany parametr nie dotyczy danej formy funkcji preferencji to w jego miejscu należy wpisać wartość 0 i parametr ten jest ignorowany.<br/>
+<b>nr_atrybutu</b> - wartości całkowite od 1 do n gdzie n jest liczbą atrybutów<br/>
+<b>nazwa</b> - nazwa atrybutu - łańcuch znaków<br/>
+<b>waga</b> - liczba rzeczywista, wartość atrybutu określa jego ważność, przedział (0, 1><br/>
+<b>typ</b> - znak K lub Z, gdzie K - charakter kosztowy to znaczy im większa wartość atrybutu tym gorzej, Z - charakter korzyści czyli im większa wartość tym lepiej<br/>
+<b>typ_funkcji_preferencji</b> - liczba całkowita ze zbioru {1, 2, 3, 4, 5} oznaczająca formę funkcji preferencji (zdjęcia poniżej)<br/>
+<b>parametry_funkcji - dwie liczby rzeczywiste oddzielone spacją określające wartości parametrów q i p (odpowiednio próg równoważności i silnej preferencji - zdjęcia poniżej). Jeżeli dany parametr nie dotyczy danej formy funkcji preferencji to w jego miejscu należy wpisać wartość 0 i parametr ten jest ignorowany.<br/>
 <br/>
 Funkcje preferencji i zasada ich działania (zdjęcia z prezentacji otrzymanej od dr hab. inż. Maciej Tabaszewski):<br/>
 ![image](https://user-images.githubusercontent.com/34101300/173627518-0bf9d003-e4fa-42c7-87cb-52fb72e51943.png)
