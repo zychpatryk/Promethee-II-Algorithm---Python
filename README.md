@@ -2,7 +2,6 @@
 Final project for Programming Languages (Academic subject)
 
 #POLISH VERSION<br/>
-Przed uruchomieniem programu upewnij się, że pobrałeś wersję odpowiednią dla twojego język.<br/>
 Plik wykorzystywany do programu powinien być wykonany według poniższego szablonu:<br/>
 
 #ATRYBUT nr_atrybutu; nazwa_atrybutu; waga; typ; typ_funkcji_preferencji; parametry_funkcji<br/>
